@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"Script Name"
+	"version"			"1.0"
+	"author_name"			"Your Name"
+	"info"				"Your script description"
+	"override"			"0"
+}
